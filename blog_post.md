@@ -1,6 +1,6 @@
 # What Shapes Life Expectancy in Developed Countries?
 
-life_expectancy_by_country.png
+[life_expectancy_by_country.png]
 
 Why do people live longer in some developed countries than in others? To explore this question, I analysed World Bank data for 21 countries between 2015 and 2023. The dataset combines life expectancy with GDP per capita, healthcare expenditure, internet access, unemployment, and urbanisation.
 
